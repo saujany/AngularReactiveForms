@@ -1,0 +1,50 @@
+
+
+<router-outlet></router-outlet>
+ <a routerLink="add" class="btn btn-success">AddNew</a>
+<table border="1" class="table table-bordered">
+
+  <thead>
+    <tr>
+      <td>
+        id
+      </td>
+      <td>
+        name
+      </td>
+      <td>
+        username
+      </td>
+      <td>
+        email
+      </td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let d of data">
+      <td>
+        {{d.id}}
+      </td>
+
+        <td>
+        {{d.name}}
+      </td>
+
+        <td>
+        {{d.username}}
+      </td>
+
+        <td>
+        {{d.email}}
+      </td>
+
+      <td>
+        <button routerLink="edit/{{d.id}}" class="btn btn-primary">Edit</button>
+        <button type="button" (click)="delete(d.id)" class="btn btn-danger">Delete</button>
+      </td>
+    </tr>
+  </tbody>
+
+</table>
+

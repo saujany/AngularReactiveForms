@@ -1,0 +1,34 @@
+{
+"users":
+[
+  {
+    "id": "1",
+    "name": "Saujanya",
+    "username": "sauj",
+    "email": "s@yahoo.com",
+    "address":[]
+  },
+  {
+    "id": "4",
+    "name": "geeta",
+    "username": "geeta",
+    "email": "geet@gmail.com",
+     "address":[]
+  },
+  {
+    "id": "1",
+    "name": "Saujanya",
+    "username": "saujanyasrivastava",
+    "email": "s@yahoo.com",
+      "address":[]
+  },
+  {
+    "id": "3",
+    "name": "vishal",
+    "username": "vishal1",
+    "email": "aj@gmail.com",
+     "address":[]
+  }
+]
+   
+}
