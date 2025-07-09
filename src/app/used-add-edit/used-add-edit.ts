@@ -112,9 +112,9 @@ export class UsedAddEdit implements OnInit, AfterViewInit {
 
 getstatebycountry(event: Event)
 {
+       //taking country from dropdown
 
         this.selectedcountry = (event.target as HTMLInputElement).value;
-
         console.log(this.selectedcountry);
         this.myservice.getstatebycountry(this.selectedcountry).subscribe(data => {
           this.states = data;
