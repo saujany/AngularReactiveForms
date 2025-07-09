@@ -15,8 +15,13 @@
       <td>
         username
       </td>
-      <td>
+    
+        <td>
         email
+      </td>
+
+        <td>
+        address
       </td>
     </tr>
   </thead>
@@ -37,6 +42,12 @@
 
         <td>
         {{d.email}}
+      </td>
+        <td>
+        {{d.address.street}}
+          {{d.address.country}}
+            {{d.address.state}}
+
       </td>
 
       <td>

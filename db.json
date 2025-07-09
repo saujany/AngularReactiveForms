@@ -1,32 +1,66 @@
 {
   "users": [
     {
-      "id": "2",
-      "name": "vishal",
+      "id": "1",
+      "name": "saaa",
       "username": "vishal1",
-      "email": "aj@gmail.com"
+      "email": "s_vastav2000@yahoo.com",
+      "address": [
+        {
+          "street": "J051 DLF MAIDEN HEIGHTS",
+          "country": "UK",
+          "state": "England"
+        }
+      ]
     },
     {
       "id": "1",
-      "name": "vishal",
+      "name": "saaa",
       "username": "vishal1",
-      "email": "aj@gmail.com"
+      "email": "s_vastav2000@yahoo.com",
+      "address": [
+        {
+          "street": "J051 DLF MAIDEN HEIGHTS",
+          "country": "UK",
+          "state": "London"
+        }
+      ]
     },
     {
-      "id": "3",
-      "name": "vishal",
+      "id": "2",
+      "name": "saaa",
       "username": "vishal1",
-      "email": "aj@gmail.com"
+      "email": "s_vastav2000@yahoo.com",
+      "address": [
+        {
+          "street": "J051 DLF MAIDEN HEIGHTS",
+          "country": "UK",
+          "state": "England"
+        }
+      ]
     },
     {
-      "id": "11",
+      "id": "5",
+      "name": "saaa",
+      "username": "vishal1",
+      "email": "s_vastav2000@yahoo.com",
+      "address": [
+        {
+          "street": "J051 DLF MAIDEN HEIGHTS",
+          "country": "India",
+          "state": "Delhi"
+        }
+      ]
+    },
+    {
+      "id": "5",
       "name": "saaa",
       "username": "vishal1",
       "email": "s_vastav2000@yahoo.com",
       "address": []
     },
     {
-      "id": "12",
+      "id": "6",
       "name": "saaa",
       "username": "vishal1",
       "email": "s_vastav2000@yahoo.com",
@@ -34,79 +68,12 @@
         {
           "street": "J051 DLF MAIDEN HEIGHTS",
           "country": "India",
-          "state": "s.stateId"
+          "state": "Delhi"
         }
       ]
     },
     {
-      "id": "12",
-      "name": "saaa",
-      "username": "vishal1",
-      "email": "s_vastav2000@yahoo.com",
-      "address": [
-        {
-          "street": "J051 DLF MAIDEN HEIGHTS",
-          "country": "India",
-          "state": "s.stateId"
-        },
-        {
-          "street": "J051 DLF MAIDEN HEIGHTS",
-          "country": "India",
-          "state": "s.state"
-        }
-      ]
-    },
-    {
-      "id": "13",
-      "name": "saaa",
-      "username": "vishal1",
-      "email": "s_vastav2000@yahoo.com",
-      "address": [
-        {
-          "street": "J051 DLF MAIDEN HEIGHTS",
-          "country": "India",
-          "state": "UP"
-        }
-      ]
-    },
-    {
-      "id": "13",
-      "name": "saaa",
-      "username": "vishal1",
-      "email": "s_vastav2000@yahoo.com",
-      "address": [
-        {
-          "street": "J051 DLF MAIDEN HEIGHTS",
-          "country": "India",
-          "state": "UP"
-        },
-        {
-          "street": "J051 DLF MAIDEN HEIGHTS",
-          "country": "Russia",
-          "state": "UP"
-        }
-      ]
-    },
-    {
-      "id": "13",
-      "name": "saaa",
-      "username": "vishal1",
-      "email": "s_vastav2000@yahoo.com",
-      "address": [
-        {
-          "street": "J051 DLF MAIDEN HEIGHTS",
-          "country": "India",
-          "state": "UP"
-        },
-        {
-          "street": "J051 DLF MAIDEN HEIGHTS",
-          "country": "Russia",
-          "state": "USSR"
-        }
-      ]
-    },
-    {
-      "id": "14",
+      "id": "7",
       "name": "saaa",
       "username": "vishal1",
       "email": "s_vastav2000@yahoo.com",
@@ -115,11 +82,6 @@
           "street": "J051 DLF MAIDEN HEIGHTS",
           "country": "Russia",
           "state": "USSR"
-        },
-        {
-          "street": "J051 DLF MAIDEN HEIGHTS",
-          "country": "India",
-          "state": "AP"
         }
       ]
     }
